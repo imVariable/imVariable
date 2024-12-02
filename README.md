@@ -1,4 +1,4 @@
-👋 Hi, I’m @imVariable
+👋 Hi, This is Manoj
 
 Passionate Data Scientist with expertise in NLP, Machine Learning, Large Language Models, Generative AI, and Deep Learning.
 Proficient in Data Structures, C/C++, Python, and dedicated to advancing knowledge in cutting-edge technologies. 
